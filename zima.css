@@ -1,0 +1,40 @@
+body
+{
+    background-image: url(images/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: filter 0.3;
+}
+#titleContainer
+{
+    margin-top: 50px;
+    color: rgb(255, 255, 255);
+}
+#formContainer
+{
+    padding-left: 30%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    top: 50%;
+    left: 50%;
+
+}
+#mainForm
+{
+    border: 10px;
+    border-color: aliceblue;
+}
+#btnMain
+{
+    margin-left: 50px;
+}
+#radioButtons
+{
+    font-size: small;
+}
+.layer
+{
+    background-color: rgba(0, 0, 0, 0.7);
+}
