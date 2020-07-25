@@ -1,0 +1,54 @@
+body
+{
+    background: 
+        linear-gradient(
+            rgba(0, 0, 0, 0.7), 
+            rgba(0, 0, 0, 0.7)
+        ),
+        url("../images/6.jpg");
+    background-size: cover;
+}
+#navbar
+{
+    color: white;
+    font-style: italic;
+}
+#titleContainer
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: rgb(255, 255, 255);
+}
+#input1
+{
+    background-color: rgb(115, 170, 170);
+    border: 2px;
+    border-radius: 3px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#courseSelect
+{
+    font-weight: 400;
+    padding-left: 40%;
+}
+#submitButton
+{
+    padding-left: 80px;
+    padding-right: 80px;
+    align-items: flex-end;
+}
+#submitArea
+{
+    padding-left: 470px;
+    padding-top: 50px;
+}
+#enterID
+{
+    padding-left: 425px;
+    padding-top: 50px;
+}
+form
+{
+    color: white;
+}
